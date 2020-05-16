@@ -38,7 +38,7 @@ Performed cleaning and profiling on Barangay Food Terminals dataset. Jupyter not
 
 Brief presentation on Sagana, the AI-powered food distribution web app, can be viewed at the website below:
 
-https://for-the-echo-dot.netlify.app/
+https://winning-the-amazon-echo-dot.netlify.app/
 
 # Other possible problems to be explored with the data.gov.ph datasets 
 
