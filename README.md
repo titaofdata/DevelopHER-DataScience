@@ -21,6 +21,11 @@ Here's some prior art search on food security ideas:
 2) [Vehicle Routing Problem (AI-based Solution)](https://github.com/shlok57/VehicleRoutingProblem)
 3) [Vehicle Routing Problem (Genetic Algorithm-based Solution)](https://github.com/iRB-Lab/py-ga-VRPTW)
 
+This prototype aims to support the Development Academy of the Philippines by deploying a food distribution web app that aims to aid the following [objectives](https://www.dap.edu.ph/coe-psp/innov_initiatives/listahanan-national-household-targeting-system-for-poverty-reduction-nhts-pr/):
+
+1) Improve the design of government social assistance programs to  **maximize the benefit of the poor**
+2) To **minimize wastage of resources** by ensuring that **only those who are deserving benefit** from social protection programs and services
+
 
 
 # Other possible problems to be explored with the data.gov.ph datasets 
