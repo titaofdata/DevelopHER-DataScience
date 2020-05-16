@@ -44,7 +44,7 @@ https://data.gov.ph/?q=dataset/cebu-port-authority-cpa-statistics-2015
 1) Minimize container dwell time
 2) Minimize bunching of trucks by implementing a number/color coding system for trucks similar to the Unified Vehicular Volume Reduction Program (UVVRP)
 3) Optimize use of berth space by using ML to predict best departure, arrival and buffer time for each vessel 
-4) Autonotication sent to concerned parties including schedule information
+4) Autonotification sent to concerned parties including schedule information
 
 ## CHALLENGE: Data Quality Issues 
 
