@@ -1,7 +1,7 @@
 # DevelopHER-DataScience
 Using data science to build a scheduling solution to address food security in urban areas in PH
 
-The following were the datasets I used taken from data.gov.ph
+The following were the datasets I used, most of these taken from data.gov.ph
 
 1) [National Household Targeting System for Poverty Reduction (NHTS-PR) Statistics](https://data.gov.ph/?q=dataset/national-household-targeting-system-poverty-reduction-nhts-pr-statistics)
 2) [National Household Targeting System for Poverty Reduction](https://data.gov.ph/?q=dataset/national-household-targeting-system-poverty-reduction)
@@ -21,6 +21,7 @@ Here's some prior art search on food security ideas:
 1) [Food waste is the world's dumbest problem](https://www.youtube.com/watch?v=6RlxySFrkIM)
 2) [Vehicle Routing Problem (AI-based Solution)](https://github.com/shlok57/VehicleRoutingProblem)
 3) [Vehicle Routing Problem (Genetic Algorithm-based Solution)](https://github.com/iRB-Lab/py-ga-VRPTW)
+4) [The power of gender equality for food security](https://www.wfp.org/publications/power-gender-equality-food-security)
 
 This prototype aims to support the Development Academy of the Philippines by deploying a food distribution web app that aims to aid the following [objectives](https://www.dap.edu.ph/coe-psp/innov_initiatives/listahanan-national-household-targeting-system-for-poverty-reduction-nhts-pr/):
 
