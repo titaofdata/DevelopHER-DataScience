@@ -27,7 +27,15 @@ This prototype aims to support the Development Academy of the Philippines by dep
 1) Improve the design of government social assistance programs to  **maximize the benefit of the poor**
 2) To **minimize wastage of resources** by ensuring that **only those who are deserving benefit** from social protection programs and services
 
+# Prototype
 
+## Data Cleaning
+
+Performed cleaning and profiling on Barangay Food Terminals dataset. Jupyter notebook found [here](https://colab.research.google.com/drive/1NktA7Qtx2sJSr4AMvaYc9d4zIppdOt_9?usp=sharing)
+
+## Pitch Deck
+
+Brief presentation on Sagana, the AI-powered food distribution web app, can be found [here]()
 
 # Other possible problems to be explored with the data.gov.ph datasets 
 
