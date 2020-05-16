@@ -14,6 +14,7 @@ The following were the datasets I used taken from data.gov.ph
 9) [Metro Rail Transit Line 3 - Passenger Traffic (Saturdays)](https://data.gov.ph/?q=dataset/metro-rail-transit-line-3-passenger-traffic-saturdays)
 10) [2017 Ridership Statistics](https://data.gov.ph/?q=dataset/2017-ridership-statistics)
 11) [Barangay Food Terminals (BFTs)](https://data.gov.ph/?q=dataset/barangay-food-terminals-bfts)
+12) [PSGC database](https://psa.gov.ph/classification/psgc/)
 
 Here's some prior art search on food security ideas:
 
