@@ -3,14 +3,12 @@ Using data science to build a scheduling solution to address food security in ur
 
 # Prototype
 
+Watch the demo of the Sagana app [here](https://tinyurl.com/sagana-app-demo).
 
-## Data Cleaning
-
-Performed cleaning and profiling on Barangay Food Terminals dataset. Jupyter notebook found [here](https://colab.research.google.com/drive/1NktA7Qtx2sJSr4AMvaYc9d4zIppdOt_9?usp=sharing)
 
 ## Pitch Deck
 
-Brief presentation on Sagana, the AI-powered food distribution web app, can be viewed at the website below:
+A brief presentation on Sagana, the AI-powered food distribution web app, can be viewed at the website below:
 
 https://winning-the-amazon-echo-dot.netlify.app/
 
@@ -19,6 +17,9 @@ This prototype aims to support the Development Academy of the Philippines by dep
 1) Improve the design of government social assistance programs to  **maximize the benefit of the poor**
 2) To **minimize wastage of resources** by ensuring that **only those who are deserving benefit** from social protection programs and services
 
+## Data Cleaning
+
+Performed cleaning and profiling on Barangay Food Terminals dataset. Jupyter notebook found [here](https://colab.research.google.com/drive/1NktA7Qtx2sJSr4AMvaYc9d4zIppdOt_9?usp=sharing)
 
 The following were the datasets I used, most of these taken from data.gov.ph
 
@@ -76,3 +77,8 @@ The dataset available at data.gov.ph is in a per month basis. In order for the C
 This scheduling system can be built using Google Cloud Platform's AutoML. The predictions can be stored on Firebase. Then, a notification channel can be configured on GCP where alerts including schedule information will be sent via SMS to concerned parties. The whole Vessel Scheduling System can be deployed on the cloud thru GCP. 
 
 In the future, IoT can even be integrated on vessels. For instance, [ultrasonic sensors](https://www.mdpi.com/1424-8220/19/23/5181/htm) can be connected to each vessel. Data from sensors can be sent to Cloud Pub/Sub in real time. Then, data creation will trigger the execution of the Vessel Scheduling System and will sent alert notif once the optimal berth location for the specific vessel has been determined.   
+
+
+## Hiring Data Scientists?
+
+Visit us at www.ftwfoundation.org
